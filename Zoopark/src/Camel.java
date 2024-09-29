@@ -9,7 +9,7 @@ public class Camel {
     }
 
     public void move() {
-        System.out.println("врблюд может ходить");
+        System.out.println("верблюд может ходить");
     }
 
 }
