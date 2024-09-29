@@ -9,7 +9,7 @@ public class Dolphin {
     }
 
     public void move() {
-        System.out.println("тигр может плыть");
+        System.out.println("дельфин может плыть");
     }
 
 }
